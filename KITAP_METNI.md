@@ -1249,3 +1249,755 @@ Hayat, uzun süre ona bunun tersini gösterecek hiçbir şey yapmadı.
 Tam tersine.
 
 Her çözdüğü problem, aynı düşünceyi biraz daha güçlendirdi.
+
+Sonraki yıllar Mahir’in hafızasında gün gün kalmadı.
+
+Zaten hayatın büyük kısmı öyle kalmıyordu.
+
+Bazı yıllardan insana bir doğum günü masası kalıyordu.
+
+Bazılarından bir hastane koridoru.
+
+Bir evin eski anahtarı.
+
+Bir telefon numarası.
+
+Bir fotoğrafta artık giymediği bir gömlek.
+
+Mahir’in yirmili yaşlarının ortası da sonradan böyle hatırlanacaktı.
+
+Derya üniversiteye başladı.
+
+Annesinin saçlarındaki beyazlar çoğaldı.
+
+Babası merdivenleri çıkarken bir gün ilk kez korkuluğa tutundu.
+
+Mahir daha fazla kazanmaya başladı.
+
+Sonra daha fazla sorumluluk aldı.
+
+Bir süre sonra evde bir şey gerektiğinde:
+
+**Anne:** “Babanla konuşalım.”
+
+yerine:
+
+**Anne:** “Mahir’e de soralım.”
+
+denmeye başlandı.
+
+Mahir bundan rahatsız değildi.
+
+Tam tersine.
+
+İhtiyaç duyulan kişi olmak hoşuna gidiyordu.
+
+Belki değişmeye başlayan ilk şey buydu.
+
+Yardım etmek değil.
+
+Gerekli olmak.
+
+İkisinin aynı şey olmadığını henüz bilmiyordu.
+
+---
+
+Derya üniversitenin ilk yılında bir akşam eve döndüğünde Mahir’i mutfakta bulmuştu.
+
+Mahir telefonuna bakıyordu.
+
+Masada yemek vardı ama başlamamıştı.
+
+Derya çantasını sandalyeye bıraktı.
+
+**Derya:** “Yemedin mi?”
+
+**Mahir:** “Şimdi yiyeceğim.”
+
+Derya karşısına oturdu.
+
+Mahir telefonunda bir şey yazmaya devam etti.
+
+Derya bekledi.
+
+Bir süre sonra:
+
+**Derya:** “Mahir.”
+
+dedi.
+
+Mahir ekrandan gözünü ayırmadı.
+
+**Mahir:** “Hı?”
+
+**Derya:** “Hiç.”
+
+Mahir mesajını gönderdi.
+
+Telefonu masaya bıraktı.
+
+**Mahir:** “Ne oldu?”
+
+**Derya:** “Bir şey soracaktım.”
+
+**Mahir:** “Sor.”
+
+Derya birkaç saniye düşündü.
+
+Sonra vazgeçti.
+
+**Derya:** “Unuttum.”
+
+Mahir güldü.
+
+**Mahir:** “Yirmi yaşında bunamaya başladın.”
+
+Derya ona baktı.
+
+**Derya:** “Sen de daha şimdiden yaşlı adam gibi konuşuyorsun.”
+
+Mahir tabağını önüne çekti.
+
+Konu kapandı.
+
+Derya’nın ne soracağını gerçekten unutup unutmadığını Mahir hiçbir zaman öğrenmedi.
+
+---
+
+Bir başka yıl babası cuma sabahı odasının kapısından seslendi.
+
+**Baba:** “Geliyor musun?”
+
+Mahir gömleğinin düğmelerini ilikliyordu.
+
+Saatine baktı.
+
+**Mahir:** “Bugün zor.”
+
+Babası kapının önünde birkaç saniye durdu.
+
+**Baba:** “Tamam.”
+
+Mahir aynadan ona baktı.
+
+**Mahir:** “Haftaya gideriz.”
+
+Babası başını salladı.
+
+**Baba:** “Olur.”
+
+Haftaya Mahir şehir dışındaydı.
+
+Sonraki hafta öğlene kadar uyudu.
+
+Bir sonraki cuma babası sormadı.
+
+Mahir evden çıkarken onu salondaki koltuğunda gördü.
+
+Babası hazırlanmıştı.
+
+Mahir:
+
+**Mahir:** “Çıkıyor musun?”
+
+diye sordu.
+
+**Baba:** “Çıkıyorum.”
+
+Mahir:
+
+**Mahir:** “Tamam.”
+
+dedi.
+
+Kapıyı kapattı.
+
+O gün bunun üzerinde hiç düşünmedi.
+
+Bir insanın hayatında bazı şeyler büyük bir kararla bitmiyordu.
+
+Bazen yalnızca bir sonraki hafta yapılmıyordu.
+
+Sonra bir sonraki hafta da.
+
+---
+
+Allah’la arasına giren şey de tek bir olay olmadı.
+
+Mahir inanmayı bırakmadı.
+
+Dua etmeyi küçümsemedi.
+
+Kur’an’dan duyduğu bir ayeti anlamsız bulmadı.
+
+Hatta biri dini bir konuda yanlış bir şey söylediğinde bazen hâlâ düzeltiyordu.
+
+Bilgisi oradaydı.
+
+Fakat hayatındaki yeri değişiyordu.
+
+İşi bittikten sonra.
+
+Telefon sustuktan sonra.
+
+Borcu ödendikten sonra.
+
+Sorun çözüldükten sonra.
+
+Yorgunluğu geçtikten sonra.
+
+*Sonra.*
+
+Mahir’in hayatında bu kelime giderek daha fazla şeyin önüne geçmeye başladı.
+
+---
+
+Bir gece arabasıyla kırmızı ışıkta beklerken yanındaki aracın camından Kur’an sesi geldi.
+
+Ses çok yüksek değildi.
+
+Mahir önce önemsemedi.
+
+Sonra tanıdığı birkaç kelime duydu.
+
+Çocukluğundan kalmış bir ezber, düşünmesine fırsat vermeden zihninde devamını getirdi.
+
+*Fe inne me’al usri yusrâ…*
+
+Işık yeşile döndü.
+
+Arkasındaki araç korna çaldı.
+
+Mahir ayağını gaz pedalına götürdü.
+
+Ses geride kaldı.
+
+Bir sonraki kavşakta telefon çaldı.
+
+Mahir açtı.
+
+Birkaç dakika sonra az önce ne duyduğunu düşünmüyordu bile.
+
+Ama kelimeler kaybolmadı.
+
+Sadece kullanılacakları zaman henüz gelmemişti.
+
+---
+
+Yirmili yaşlarının sonlarına doğru Mahir’in hayatında başka bir değişiklik oldu.
+
+Yıllardır başkalarının verdiği sorumlulukları taşıyan adam, artık kendi kararlarının arkasında durabileceğine inanıyordu.
+
+Kendisinden emindi.
+
+Bunun için sebepleri de vardı.
+
+Çalışmıştı.
+
+Öğrenmişti.
+
+Başarmıştı.
+
+İnsanlar ona güvenmişti.
+
+Ailesine destek olmuştu.
+
+Başına gelen sorunların çoğunu gerçekten çözmüştü.
+
+Dolayısıyla hayat ona şimdiye kadar tek bir şey öğrettiyse Mahir’e göre şuydu:
+
+Bir yol mutlaka bulunurdu.
+
+Bir süre sonra kendi adına daha büyük adımlar atmaya başladı.
+
+O günlerde ailesinin gördüğü şey yalnızca Mahir’in daha çok çalışmasıydı.
+
+Derya’nın gördüğü ise biraz daha fazlasıydı.
+
+Mahir’in yorulduğunu görüyordu.
+
+Sinirlendiğini.
+
+Telefonu kapattıktan sonra uzun süre susmasını.
+
+Bazen kendisine sorulan çok basit bir soruya bile gereğinden sert cevap vermesini.
+
+Sonra bundan pişman olmasını.
+
+Bir akşam Derya:
+
+**Derya:** “Bir şey mi oldu?”
+
+diye sordu.
+
+Mahir bu soruya hiç düşünmeden cevap verdi.
+
+**Mahir:** “Yok.”
+
+Derya yüzüne baktı.
+
+**Derya:** “Emin misin?”
+
+**Mahir:** “Eminim.”
+
+O sırada gerçekten yalan söylediğini düşünmüyordu.
+
+Çünkü onun zihninde bir sorun, henüz çözülebilecek durumdaysa anlatılacak kadar gerçek değildi.
+
+Önce halledecekti.
+
+Sonra gerekirse söylerdi.
+
+---
+
+İlk defa halledemediğinde bunu kimse anlamadı.
+
+Mahir de anlamadı.
+
+Bir problem çözülmedi.
+
+Yalnızca ertelendi.
+
+Mahir başka bir yol denedi.
+
+O da yetmedi.
+
+Sonra bir tane daha.
+
+İlk başlarda bunların hiçbiri büyük görünmüyordu.
+
+Rakamlar toparlanabilirdi.
+
+Bir görüşme iyi geçerse düzelebilirdi.
+
+Bir ödeme gelirse açık kapanabilirdi.
+
+Biraz zaman gerekiyordu.
+
+Mahir’in en çok istediği şey de buydu:
+
+Zaman.
+
+Çünkü zaman verilirse düzelteceğine inanıyordu.
+
+Derya bir gece telefonda:
+
+**Derya:** “Sesin kötü geliyor.”
+
+dedi.
+
+**Mahir:** “Yorgunum.”
+
+**Derya:** “Eve geliyor musun?”
+
+Mahir bilgisayar ekranına baktı.
+
+**Mahir:** “Birazdan.”
+
+İki saat sonra hâlâ aynı yerdeydi.
+
+Derya tekrar aramadı.
+
+---
+
+Sonra utanç geldi.
+
+Bu, Mahir’in beklemediği şeydi.
+
+Para kaybetmekten korkacağını biliyordu.
+
+Başarısız olmaktan da.
+
+Ama insanların onun başarısız olduğunu öğrenmesinden bu kadar korkacağını bilmiyordu.
+
+Annesinin yüzündeki endişeyi görmek istemiyordu.
+
+Babasının:
+
+**Baba:** “Ne oldu?”
+
+diye sormasını istemiyordu.
+
+Derya’nın yardım etmeye çalışmasını hiç istemiyordu.
+
+Çünkü yardım kabul etmek için önce yardıma ihtiyacı olduğunu söylemesi gerekiyordu.
+
+Mahir’in yıllardır kaçındığı cümle buydu.
+
+*Yapamıyorum.*
+
+Bu nedenle başka cümleler kullandı.
+
+**Mahir:** “Halledeceğim.”
+
+**Mahir:** “Bir şey yok.”
+
+**Mahir:** “Kontrolümde.”
+
+**Mahir:** “Biraz zaman lazım.”
+
+Başlangıçta bu cümlelerin bazıları doğruydu.
+
+Sonra yarısı doğru kaldı.
+
+Bir süre sonra yalnızca Mahir inanmak istediği için doğruymuş gibi duruyordu.
+
+---
+
+Derya değişimi ilk fark edenlerden biriydi.
+
+Bir gece Mahir’in evine geldiğinde kapıda uzun süre bekledi.
+
+Zil çaldı.
+
+Cevap yoktu.
+
+Telefon etti.
+
+Mahir açmadı.
+
+Derya tekrar aradı.
+
+Üçüncüde Mahir telefonu açtı.
+
+**Mahir:** “Ne var?”
+
+Derya birkaç saniye sustu.
+
+**Derya:** “Kapındayım.”
+
+Mahir içeriden kapıya baktı.
+
+**Mahir:** “Niye?”
+
+Soruyu söylediği anda yanlış olduğunu anladı.
+
+Derya da anladı.
+
+**Derya:** “Seni görmeye geldim.”
+
+Mahir alnını ovuşturdu.
+
+**Mahir:** “Derya, bugün…”
+
+Derya onun sözünü kesmedi.
+
+Bu daha kötüydü.
+
+Mahir sustu.
+
+Sonra kapıya yürüdü.
+
+Açtı.
+
+Derya karşısında duruyordu.
+
+Elinde bir poşet vardı.
+
+Mahir’in yüzüne baktı.
+
+**Derya:** “Kaç gündür uyumuyorsun?”
+
+**Mahir:** “Uyuyorum.”
+
+**Derya:** “Bana bak.”
+
+Mahir baktı.
+
+Derya hiçbir şey söylemedi.
+
+İçeri girdi.
+
+O gece aralarında büyük bir tartışma olmadı.
+
+Derya yemek çıkardı.
+
+Mahir biraz yedi.
+
+Televizyon açıktı.
+
+İkisi de izlemedi.
+
+Mahir için o gecenin en zor kısmı, Derya’nın hiçbir şey sormadan yanında oturmasıydı.
+
+Çünkü insan bazen kendisini en çok, karşısındaki sustuğunda duyuyordu.
+
+---
+
+Fakat Mahir ertesi sabah yine aynı şeyi yaptı.
+
+Sorunların başına döndü.
+
+Bir şeyleri düzeltmeye çalıştı.
+
+Bir şeyi kurtardı.
+
+İki şeyi kaybetti.
+
+Bir kapıyı açık tuttu.
+
+Başka biri kapandı.
+
+Aylar bu şekilde birbirinin içine girdi.
+
+Ve sonunda Mahir’in yıllardır kurduğu düzen dayanmadı.
+
+Nasıl başladığı, kimin ne yaptığı, hangi kararın hangi sonucu doğurduğu daha sonra anlatılacaktı.
+
+Çünkü Mahir’in kendisi bile o günlerde hikâyeyi tek bir şekilde hatırlamıyordu.
+
+Bildikleri daha basitti.
+
+Bir dönem para kazandığı yerden artık borç konuşmaları geliyordu.
+
+Bir zamanlar kendisini arayan insanların bir kısmı artık cevap bekliyordu.
+
+Bazıları öfkeliydi.
+
+Bazıları haklıydı.
+
+Bazıları değildi.
+
+Ve Mahir ilk kez çalışmanın her şeyi düzeltemediği bir yerde kalmıştı.
+
+Ne kadar uğraşırsa uğraşsın.
+
+---
+
+Bundan sonra hayat daha hızlı küçüldü.
+
+Önce bazı planlar iptal oldu.
+
+Sonra bazı insanlar uzaklaştı.
+
+Mahir ailesinin yanına daha seyrek gitmeye başladı.
+
+Sorulardan kaçıyordu.
+
+Aslında insanlardan değil.
+
+Onların yüzünde göreceğini düşündüğü şeyden.
+
+Acıma.
+
+Hayal kırıklığı.
+
+Endişe.
+
+En çok da Derya’nın kendisini çözmesinden.
+
+Bir ara annesi aradığında telefonu sessize aldı.
+
+Sonra geri aramayı unuttu.
+
+Bir sonraki gün tekrar aradı.
+
+Mahir yine açmadı.
+
+Üçüncü gün Derya mesaj attı.
+
+**Annem seni merak ediyor.**
+
+Mahir ekrana baktı.
+
+**İyiyim.**
+
+yazdı.
+
+Göndermedi.
+
+Sildi.
+
+**Arayacağım.**
+
+yazdı.
+
+Onu gönderdi.
+
+O gün aramadı.
+
+---
+
+Otuz üç yaşına geldiğinde Mahir şehrin eski mahallelerinden birindeki küçük bir dairede tek başına yaşıyordu.
+
+Ev kirli değildi.
+
+Dağınık da sayılmazdı.
+
+Ama uzun zamandır hiçbir şeyin yeri değişmemişti.
+
+Kitaplığın altındaki iki kutu açılmamıştı.
+
+Mutfak masasının kenarında zarflar vardı.
+
+Birkaç gömlek aylardır dolaptan çıkmamıştı.
+
+Salondaki perdeler kapalıydı.
+
+Saat öğleden sonra bire geliyordu.
+
+Mahir koltukta uyuyordu.
+
+Telefonu titreşti.
+
+Bir kez.
+
+Sonra tekrar.
+
+Gözlerini açtı.
+
+Ekranda annesinin adı vardı.
+
+Uzun süre baktı.
+
+Açmadı.
+
+Telefon sustu.
+
+Bir dakika geçmeden mesaj geldi.
+
+Derya.
+
+**Kapıyı aç.**
+
+Mahir doğruldu.
+
+Zil çaldı.
+
+Bir kez.
+
+Sonra bir kez daha.
+
+Mahir başını koltuğun arkasına yasladı.
+
+**Mahir:** “Anahtarın var.”
+
+Kapının arkasından Derya’nın sesi geldi.
+
+**Derya:** “Var.”
+
+**Mahir:** “E aç.”
+
+Kısa bir sessizlik oldu.
+
+**Derya:** “Bugün sen aç.”
+
+Mahir kapıya baktı.
+
+Ayağa kalktı.
+
+Bu kez yalnız kapıya yürümekle kalmadı.
+
+Açtı.
+
+Derya karşısındaydı.
+
+Elinde iki poşet vardı.
+
+Mahir’i görünce yüzündeki ifade bir an değişti ama hemen toparladı.
+
+**Derya:** “Merhaba.”
+
+**Mahir:** “Merhaba.”
+
+Derya içeri girdi.
+
+Ayakkabılarını çıkardı.
+
+Sanki yüzlerce kez yaptığı bir şeyi yapıyormuş gibi mutfağa yürüdü.
+
+Muhtemelen öyleydi.
+
+Mahir kapıyı kapattı.
+
+Derya poşetleri tezgâha bıraktı.
+
+Sonra salona baktı.
+
+Perdelere.
+
+Mahir bunu fark etti.
+
+**Mahir:** “Ne?”
+
+**Derya:** “Bir şey demedim.”
+
+**Mahir:** “Diyeceksin.”
+
+Derya ona baktı.
+
+**Derya:** “Hayır.”
+
+Perdelere doğru yürüdü.
+
+Birini açtı.
+
+Gri bir öğleden sonra ışığı salona yayıldı.
+
+Mahir gözlerini kıstı.
+
+**Mahir:** “Kapat şunu.”
+
+Derya perdeyi bırakmadı.
+
+**Derya:** “Niye?”
+
+**Mahir:** “Güneş geliyor.”
+
+Derya pencerenin dışına baktı.
+
+Gökyüzü bulutluydu.
+
+Mahir de baktı.
+
+Derya hiçbir şey söylemedi.
+
+Bu kez Mahir kendisi gülümsedi.
+
+Çok az.
+
+**Mahir:** “Tamam.”
+
+Derya perdeyi açık bıraktı.
+
+Mutfağa geçti.
+
+**Derya:** “Yemek yedin mi?”
+
+Mahir cevap vermeden önce çocukluğundan bir ses hatırladı.
+
+Annesinin mutfaktan sorduğu aynı soru.
+
+Yıllar önce.
+
+Başka bir evde.
+
+Başka bir Mahir’e.
+
+**Mahir:** “Yemedim.”
+
+Derya arkasını dönmeden:
+
+**Derya:** “Biliyorum.”
+
+dedi.
+
+Mahir pencerenin önünde kaldı.
+
+Dışarıda sıradan bir gün vardı.
+
+Karşı apartmanın balkonunda çamaşırlar asılıydı.
+
+Sokaktan bir çocuk sesi geldi.
+
+Bir araba geçti.
+
+Sokağın köşesinde bir kadın, elinden kurtulup birkaç adım öne koşan küçük çocuğa seslendi; çocuk durup geriye baktı, sonra dönerek yeniden annesinin yanına yürüdü.
+
+Mahir'in dikkatini çekti ama nedenini o da anlayamamıştı.
+
+Derya mutfakta tabak çıkardı.
+
+Perde açık kaldı.
+
+Mahir de bu kez kapatmadı.
