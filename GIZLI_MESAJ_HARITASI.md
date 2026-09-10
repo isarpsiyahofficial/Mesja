@@ -52,12 +52,29 @@ Bu dosya romanda ilk karşılaşmada açıklanmayan; daha sonra anlamı büyüye
 - Geri dönüş hedefi: Bölüm 7 ve özellikle 16.
 - Kapanış: Bölüm 16 civarı; doğrudan ders verme şeklinde değil.
 
-## Taslak / henüz kanon olmayan adaylar
+### GM-006 — İnşirah suresi kırıntısı
+- Durum: **KANON / aktif**
+- İlk kullanım: Bölüm 1 — Mahir kırmızı ışıkta yan araçtan gelen okumada “Fe inne me’al usri yusrâ…” kısmını tanır; anlamı açıklanmaz ve sahne hemen gündelik akışa döner.
+- Görünen anlam: Çocukluktan kalmış tanıdık bir ezberin istemsizce zihinde tamamlanması.
+- Gizli/uzun vadeli anlam: Zorlukla beraber gelen kolaylığın, Mahir'in beklediği türden 'sorunsuzluk' olmadığı ileride yaşanarak anlaşılacak.
+- Geri dönüş hedefi: İlk 8 bölümde tekrar edilmemeli; uygun bağlam oluşursa orta/son bölümlerde yankılanmalı.
+- Kural: Ayet/sure kullanım sıklığı düşük tutulacak; aynı bölüm içinde dini ses/ayet tekrarlarıyla mesaj bağırılmayacak.
 
-### GM-T01 — İnşirah suresi kırıntısı
-- Durum: **TASLAK**
-- Planlanan kullanım: Mahir önce sesi/okumayı tanır; anlamı açıklanmaz. Daha sonra zorluk-kolaylık teması yaşanmışlığın içinde geri döner.
-- Kural: Nihai ayet/metin kullanılmadan önce sure/ayet ve meal bağlamı doğrulanacak.
+### GM-007 — Annesine geri dönen çocuk
+- Durum: **KANON / aktif**
+- İlk kullanım: Bölüm 1 kapanışı — sokağın köşesinde annesinin elinden kurtulup birkaç adım öne koşan çocuk, çağrılınca durup geri döner. Mahir'in dikkatini çeker ama nedenini anlayamaz.
+- Görünen anlam: Sıradan bir sokak anı.
+- Gizli/uzun vadeli anlam: Uzaklaşma ve geri dönüş teması için çok hafif bir tohum; doğrudan açıklanmayacak ve birebir tekrar edilmeyecek.
+- Geri dönüş hedefi: Bölüm 10–11 veya 16 civarı, ancak ancak organik bağlam oluşursa.
+
+### GM-008 — Perdenin açık kalması
+- Durum: **KANON / aktif**
+- İlk kullanım: Bölüm 1 kapanışı — Derya perdeyi açar; Mahir ilk anda rahatsız olur ama sonunda kapatmaz.
+- Görünen anlam: Odaya ışık girmesi ve Derya'nın gündelik müdahalesi.
+- Gizli/uzun vadeli anlam: Mahir tamamen kopmuş değildir; dışarıyla ve insanlarla arasındaki açıklık hâlâ çok küçük de olsa mümkündür.
+- Geri dönüş hedefi: Bölüm 9–10'da perdenin/ışığın yokluğu veya değişmiş hâli; finalde birebir sloganlaştırılmadan yankılanabilir.
+
+## Taslak / henüz kanon olmayan adaylar
 
 ### GM-T02 — Camdan çıkmaya çalışan serçe
 - Durum: **TASLAK**
