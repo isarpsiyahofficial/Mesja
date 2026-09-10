@@ -23,6 +23,9 @@ Bu dosya roman haritası ve ana metinde yapılan yapısal değişikliklerin kıs
 - Diyaloglarda konuşanın kim olduğu `Mahir:`, `Derya:`, `Anne:`, `Baba:` gibi açık konuşmacı etiketleriyle gösterilecek.
 - Kullanıcının metin üzerindeki kelime düzeyi düzeltmeleri korunacak; sonraki düzenlemelerde geri çevrilmeyecek.
 - Bu onaylı metinden A5 ana PDF'in ilk sürümü üretildi.
+- `KITAP_HARITASI.md` V2'ye güncellendi: Bölüm 1 kronolojik karakter temeliyle başlayacak şekilde yeniden hizalandı.
+- Daha önce taslakta kullanılan `Cem` adı kaldırıldı. Eski ortak karakterin adı hikâyeye doğal biçimde girdiği zaman belirlenecek.
+- Yaklaşık 5 sayfalık parçalar hâlinde ilerleme ve yalnız onaylanan parçaları ana metin/PDF'e işleme kuralı haritaya eklendi.
 
 ## Güncelleme kuralı
 
