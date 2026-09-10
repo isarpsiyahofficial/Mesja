@@ -16,6 +16,14 @@ Bu dosya roman haritası ve ana metinde yapılan yapısal değişikliklerin kıs
 - Diyalogların doğal, sinematik, gerektiğinde yoğun ve doğrudan olması sabitlendi.
 - 18 ana bölümlük V1 harita `KITAP_HARITASI.md` dosyasına kaydedildi.
 
+## 2026-09-10 — Bölüm 1 ilk onaylı parça
+
+- `BÖLÜM 1 — PERDELER KAPALI` başlangıç metni kullanıcı onayıyla `KITAP_METNI.md` dosyasına kalıcı olarak işlendi.
+- Mahir için soyadı kullanılmaması kararlaştırıldı.
+- Diyaloglarda konuşanın kim olduğu `Mahir:`, `Derya:`, `Anne:`, `Baba:` gibi açık konuşmacı etiketleriyle gösterilecek.
+- Kullanıcının metin üzerindeki kelime düzeyi düzeltmeleri korunacak; sonraki düzenlemelerde geri çevrilmeyecek.
+- Bu onaylı metinden A5 ana PDF'in ilk sürümü üretildi.
+
 ## Güncelleme kuralı
 
 Yeni karar verildiğinde:
