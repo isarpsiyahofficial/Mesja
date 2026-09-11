@@ -74,6 +74,21 @@ Bu dosya romanda ilk karşılaşmada açıklanmayan; daha sonra anlamı büyüye
 - Gizli/uzun vadeli anlam: Mahir tamamen kopmuş değildir; dışarıyla ve insanlarla arasındaki açıklık hâlâ çok küçük de olsa mümkündür.
 - Geri dönüş hedefi: Bölüm 9–10'da perdenin/ışığın yokluğu veya değişmiş hâli; finalde birebir sloganlaştırılmadan yankılanabilir.
 
+### GM-009 — Eski defter / “Önce ne söylediğini anla”
+- Durum: **KANON / aktif**
+- İlk kullanım: Bölüm 1'in uzatılmış kapanışı — Derya, Mahir'in çocukluk/gençlik döneminden kalan eski defteri getirir. Defterde Mahir'in Derya'ya yazdığı “Burayı acele etme.” ve “Önce ne söylediğini anla.” notları bulunur.
+- Görünen anlam: Eski bir aile eşyası ve Mahir'in geçmişte Derya'ya öğretirken kullandığı notlar.
+- Gizli/uzun vadeli anlam: Mahir'in bir zamanlar başkasına söylediği şeyi kendi hayatında yaşayamaz hâle gelmesi; bilmek ile yaşamak arasındaki fark.
+- Geri dönüş hedefi: Bölüm 2'de doğrudan tekrar edilmemeli; Bölüm 7, 12 veya 16 civarında doğal bir yankı mümkün.
+- Kural: Defter sürekli elde dolaşan sembolik nesneye dönüştürülmemeli.
+
+### GM-010 — “Ben bunu biliyorum ama soruda yapamıyorum.”
+- Durum: **KANON / aktif**
+- İlk kullanım: Bölüm 1'in uzatılmış kapanışı — Mahir kafede iki üniversite öğrencisinin konuşmasına istemeden kulak misafiri olur; “Ben bunu biliyorum ama soruda yapamıyorum.” / “Demek ki bilmiyorsun.” cümleleri kısa süre zihninde kalır.
+- Görünen anlam: İki öğrencinin sıradan sınav konuşması.
+- Gizli/uzun vadeli anlam: Mahir'in dini ve ahlaki olarak bildikleriyle yaşadıkları arasındaki açılacak mesafeye ince bir ayna.
+- Geri dönüş hedefi: Özellikle Bölüm 2'nin ana düşüncesiyle uyumlu; ancak aynı cümle tekrar edilmeyecek. Anlam olaylarla büyüyecek.
+
 ## Taslak / henüz kanon olmayan adaylar
 
 ### GM-T02 — Camdan çıkmaya çalışan serçe
