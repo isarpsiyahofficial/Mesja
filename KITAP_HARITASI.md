@@ -1,397 +1,317 @@
 # TEVEKKÜL — ANA ROMAN HARİTASI
 
-**Durum:** V2 — Bölüm 1 onaylı açılışa göre güncellendi  
+**Durum:** V3 — Hikâye / anlatı dönüşümlü yapı  
 **Format:** A5  
-**Hedef:** En az 300 sayfa; doğal akış izin verirse yaklaşık 350–420 A5 sayfa  
+**Hedef:** En az 300 sayfa; doğal akış izin verdiği ölçüde 350+ A5 sayfa  
 **Ana karakter:** Mahir  
-**Derya:** Mahir'in kız kardeşi  
+**Derya:** Mahir'in kız kardeşi
 
-> Bu dosya romanın resmi hikâye haritasıdır. Bölümler yazılırken veya kullanıcı yeni bir karar verdiğinde, ilgili bölüm ve gerekiyorsa bağlantılı sonraki bölümler burada güncellenecektir. Böylece olay örgüsü, karakter geçmişi, işaretler ve manevi gelişim birbirinden kopmayacaktır.
-
----
-
-## 1. Değişmez ana kurallar
-
-- Roman; tevekkül, kişisel gelişim, maneviyat/spiritualizm, karanlıktan aydınlığa çıkış temalarını birlikte taşıyacak.
-- Metinde yapay zekâ üretimine dair hiçbir belirti, meta ifade veya üretim notu bulunmayacak.
-- Kitap A5 boyutunda hazırlanacak.
-- Her ana bölüm kısa olmayacak; genel hedef bölüm başına yaklaşık **20–30+ A5 sayfa**.
-- Sayfa sayısı yapay uzatma ile değil; olay, ilişki, karakter, geçmiş, diyalog ve atmosfer derinliğiyle oluşacak.
-- Mahir için soyadı kullanılmayacak; karakter kitap boyunca yalnızca **Mahir** olarak anılacak.
-- Karşılıklı konuşmalar güçlü olacak. Diyaloglar gerektiğinde doğrudan, ağır ve dramatik olabilir; kaçınılacak şey doğrudanlık değil, yapaylık ve “şimdi dramatik replik geliyor” hissidir.
-- Diyaloglarda konuşanın kim olduğu okuyucuya tahmin ettirilmeyecek. Konuşmalar gerektiğinde **Mahir:**, **Derya:**, **Anne:**, **Baba:** gibi açık konuşmacı etiketleriyle verilecek.
-- Kullanıcının onaylı metin üzerinde yaptığı kelime/cümle düzeyi düzeltmeler sonraki sürümlerde korunacak; farkında olmadan eski ifadeye döndürülmeyecek.
-- Roman sinematik akacak: diyalog, beden dili, sessizlik, mekân, ses, hava, ışık ve sahne ritmi birlikte çalışacak.
-- Mahir'in yaşadığı her sorun bağımsız bir olay olmayacak. **Domino etkisi** kullanılacak: bir seçim, başka bir sonucu; o sonuç başka bir kararı; o karar yeni bir kırılmayı doğuracak.
-- Aynı sorun veya aynı duygu tekrar tekrar ayrı sahnelerde anlatılıp döngü yaratılmayacak.
-- “Tevekkül” kelimesi sürekli tekrarlanmayacak. Tevekkül; çaba, dua, sabır, sorumluluk, sınır, sonucu kontrol edememe ve sonucu Allah'a bırakabilme hâliyle yaşatılacak.
-- Mahir tevekkülü “hiçbir şey yapmadan beklemek” şeklinde yaşayan biri olarak yazılmayacak.
-- İlk 8 ana bölüm karanlık dönemdir. Mahir'in Allah'tan uzaklaşmışlığı doğrudan tekrar edilmeyecek; atmosfer, davranış, eksilen alışkanlıklar, kaçış, suskunluk, utanç ve iç boşluk üzerinden hissedilecek.
-- Mahir geçmişte dini bilgisi olan biridir. Derya'ya bazı duaları, sureleri ve dini bilgileri Mahir öğretmiştir. Bu detay, **bilen bir insanın da kaybolabileceğini** gösterecek.
-- Derya, romanın başından itibaren açıkça **Mahir'in kız kardeşi** olarak tanımlanacak; romantik/yanlış bir algıya izin verilmeyecek.
-- Derya ilk yarıda Mahir'in yanında kalacak. Kitabın orta eksenindeki büyük kırılmayla uzaklaşacak; sonlara doğru geri dönecek. Dönüş kolay barışma veya eski düzenin aynen kurulması şeklinde olmayacak.
-- İşaretler kitabın tamamı değildir; yalnızca katmanlarından biridir. Ana hikâye, ilişkiler, geçmiş, aile, iş/para, vicdan, karakter çatışmaları ve manevi değişim daima ön planda kalacak.
-- İşaretler ilk 8 bölümde de bulunacak. Ancak “işaret” olarak gösterilmeyecek; Mahir'in fark etmediği de söylenmeyecek. Okuyucu bile ilk seferde önemlerini fark etmeyebilir.
-- Kedi, köpek, duvar, rüzgâr, yağmur, ses, kapı, ışık, eski eşya, bir insanın sözü vb. unsurlar birbirinin aynısı mesajlar vermeyecek. Her birinin olay örgüsünde gerçek bir varlık sebebi olacak.
-- Her doğal olay sembol olmayacak. Yağmurun çoğu yalnız yağmur, kedinin çoğu yalnız kedi olabilir. Böylece gerçek bağlantılar bağırmaz.
-- İlk yarıda işaretlerin kendisi gizlenmez; **anlamları gizlenir**. İkinci yarıda yeni işaret yağdırmak yerine geçmişte görülen bazı ayrıntıların anlamları açılır.
-- Ayetler dekor veya bölüm sonu “dersi” olmayacak. Hikâye ile organik bağ kurulacak: duyma, okuma, hatırlama, birinden öğrenme, bir yerde görme, yıllar sonra anlamının yaşanması gibi yollar kullanılacak.
-- Bazı ayetler önce kırıntı olarak gelir; daha sonra tam bağlamıyla anlam kazanabilir.
-- Ayet kullanımı öncesinde sure/ayet numarası, anlam, bağlam ve kullanılacak Türkçe meal ayrıca doğrulanacak.
-- Âl-i İmrân 3:159, Mahir'in çaba–karar–sonucu bırakma çizgisinin merkez ayet adaylarından biridir. Metne yerleştirilmeden önce bağlam ve meal kontrolü yapılacak.
-- Zümer 39:53 rahmet/ümit hattında adaydır; kesin yerleşim yazım sırasında bağlama göre yapılacak.
-- Final “dua etti, her şey düzeldi” şeklinde olmayacak. Bazı borçlar, kayıplar ve kırgınlıklar kalabilir. Mahir'in asıl değişimi, şartlar tamamen değişmeden kendisinin değişmiş olmasıdır.
+> Bu dosya romanın resmi yapısal kaynağıdır. Kullanıcı tarafından onaylanan yeni kararlar önce buraya işlenir; ardından metin yazılır. Olay örgüsü, manevi gelişim, gizli mesajlar ve ayet kullanımları birbirinden kopuk ilerlemeyecektir.
 
 ---
 
-# BÖLÜM HARİTASI
+# 1. DEĞİŞMEZ ANA KURALLAR
 
-## 1. Bölüm — Perdeler Kapalı
-**Hedef:** 25–30+ A5 sayfa  
-**Dönem:** Karanlık 1/8
-
-Bölüm doğrudan çökmüş bugünkü Mahir'in ortasından başlamaz. Önce okuyucu Mahir'in kim olduğunu, nasıl bir ailede büyüdüğünü, çocukluk ve gençlik karakterini, kız kardeşi Derya ile bağını ve inançla geçmişte kurduğu doğal ilişkiyi tanır. Ardından yetişkinliğe ve ilk ciddi işine kronolojik biçimde geçilir.
-
-Onaylı açılışta Mahir otuz üç yaşındaki hâli üzerinden tanıtılır; sonra çocukluğuna dönülür. Mahir hareketli, haksızlığa karışabilen, ailesine bağlı ve sorunları kendi başına çözmeye yatkın bir çocuk/genç olarak kurulur.
-
-Derya'nın Mahir'in **kız kardeşi** olduğu ilk sayfalardan itibaren tartışmasız biçimde bellidir. Dört yaş farkları, çocukluk sahneleri, Derya'nın Mahir'i beklemesi, birbirleriyle şakalaşmaları ve Mahir'in ağabeylik rolü kardeşlik bağının temelini oluşturur.
-
-Mahir'in dini geçmişi ilk bölümden itibaren doğal biçimde vardır. Evlerinde din yalnız belli günlerde hatırlanan bir unsur değildir; ancak sürekli vaaz edilen bir yapı da değildir. Mahir çocukken Kur'an okumayı öğrenmiş, bazı sureleri ezberlemiş ve Derya'ya da bazı dini bilgileri öğretmiştir.
-
-Mahir'in güçlü tarafı ile ileride zaafa dönüşecek yanı aynı kökten kurulur: sorunları kendi başına çözmeyi sever, yardım istemeyi geciktirir. Gençken bu özellik başarı üretir; ileride kontrol, gurur ve saklama davranışına dönüşecektir.
-
-İlk onaylı parça Mahir'in ilk ciddi işine başladığı sabaha ve hayatında henüz hiçbir şeyin kırılmadığı döneme kadar gelir. Bölümün devamında yetişkin Mahir'in düzeni, iş hayatında kazandığı güven ve karanlık döneme götürecek ilk gerçek domino taşlarının zemini kurulacaktır. Çöküş aceleye getirilmeyecek.
-
-İşaretler bu bölümde de bulunabilir, ancak ana karakter tanıtımının ve hikâyenin önüne geçmeyecek; anlamları açıklanmayacaktır.
-
----
-
-## 2. Bölüm — Bir Zamanlar Bildikleri
-**Hedef:** 25–30 A5 sayfa  
-**Dönem:** Karanlık 2/8
-
-Birinci bölümde kurulan genç Mahir'in yetişkinliğe geçişi derinleştirilir. İlk işindeki düzeni, çalışma biçimi, ailesine ve Derya'ya karşı sorumluluk anlayışı, para ve bağımsızlıkla ilişkisi sahneler içinde gösterilir.
-
-Mahir'in dini bilgisi yalnız çocukluk hatırası olarak kalmaz. Genç yetişkinlikte de bildikleri, yaptığı bazı ibadetler ve hayatının doğal manevi zemini görünür; ancak karakter kusursuz veya sürekli örnek gösterilen biri hâline getirilmez.
-
-Derya'nın bazı duaları ve sureleri ağabeyi Mahir'den öğrendiği hat, yeni yaş dönemlerinde de küçük geri dönüşlerle güçlendirilir.
-
-Mahir'in “kimseye muhtaç olmama” fikrinin sağlıklı sorumluluk anlayışından yavaş yavaş katı bir öz-yeterlilik inancına dönüşmesinin ilk nüansları görülür.
-
-Temel düşünce: **Bilmek, insanı otomatik olarak kaybolmaktan korumaz.** Bu düşünce açıklanmayacak; yaşatılacak.
+- Romanın merkezinde tevekkül vardır; fakat “tevekkül” kelimesi sürekli tekrarlanmayacaktır.
+- Tevekkül; çaba, karar, istişare, sorumluluk, dua, sabır, nefisle mücadele, sınır, kayıp, kabul ve sonucu Allah'a bırakabilme üzerinden yaşatılacaktır.
+- Mahir tevekkülü “hiçbir şey yapmadan beklemek” şeklinde yaşayan biri olmayacaktır. Tam tersine temel hatalarından biri sonucu da kendi kontrolünde tutabileceğini sanmasıdır.
+- Mahir geçmişte dini bilgisi olan, Kur'an okumayı bilen ve Derya'ya bazı sure/dua bilgilerini öğretmiş biridir. Dönüşümü “ilk kez dini öğrenmek” değil, bildiği fakat hayatından uzaklaştırdığı hakikatlere daha olgun biçimde dönmek olacaktır.
+- Mahir'in Allah'tan uzaklaşması tek anda olmayacaktır. İbadetin ertelenmesi, namazın seyrekleşmesi ve sonra bırakılması, nefsin mazeret üretmesi, gurur, öfke, isyan, utanç ve kendini yeterli görme zaman içinde dalgalı ilerleyecektir.
+- Karanlık dönem tek renk olmayacaktır. Mahir iyi günler de yaşayacak, gülecek, ailesine yardım edecek, işlerinde kısa başarılar görecek; ardından başka seçimler ve olaylar dengeyi yeniden bozacaktır.
+- “Bir iyi bir kötü” anlatıcı tarafından formül gibi söylenmeyecek; yüzlerce ayrı olay, sonuç ve kararın doğal dağılımıyla yaşatılacaktır.
+- Mahir kötü biri değildir. Sevilebilir tarafları, gerçek başarıları, fedakârlığı, kusurları, gururu ve zarar veren davranışları aynı karakterde bulunacaktır.
+- Derya ilk yarıda Mahir'in yanında kalacaktır. Orta kırılmada uzaklaşacak, sonlara doğru kendi iradesiyle geri yaklaşacaktır. Dönüş Mahir'e verilmiş bir ödül olmayacaktır.
+- Eski ortak ne tamamen suçlu ne tamamen masum olacaktır. Mahir de ne yalnız mağdur ne yalnız suçlu olacaktır.
+- Olaylar domino etkisiyle ilerleyecektir. Bir hata başka bir hatayı düzeltmek için yeni bir karara, o karar başka bir sonuca yol açacaktır.
+- Aynı duygu veya sorun sahne değiştirerek tekrar edilmeyecektir.
+- Roman sinematik, doğal ve insanî kalacaktır. Hikâye bölümlerinde diyalog, beden dili, mekân, sessizlik ve gündelik hayat güçlü kullanılacaktır.
+- Mahir için soyadı kullanılmayacaktır.
+- Diyaloglarda konuşmacı gerektiğinde **Mahir:**, **Derya:**, **Anne:**, **Baba:** gibi açık etiketlerle verilecektir.
+- Kullanıcının onayladığı kelime/cümle düzeyi değişiklikler sonraki sürümlerde korunacaktır.
 
 ---
 
-## 3. Bölüm — İlk Taş
-**Hedef:** 25–30 A5 sayfa  
-**Dönem:** Karanlık 3/8
+# 2. YENİ BÖLÜM SİSTEMİ — ZORUNLU
 
-Mahir'in ileride iş/girişim hayatında önemli olacak eski ortak karakteri bu noktaya kadar doğal biçimde tanıtılmış olur. Karakterin adı şimdilik sabitlenmemiştir; hikâyeye girdiği sahnenin tonuna göre belirlenecektir.
+Roman bundan sonra **bir bölüm hikâye / bir bölüm anlatı** düzeninde ilerleyecektir.
 
-İş/girişim hikâyesinin ilk gerçek parçaları açılır. Çöküş tek bir felaketle başlamaz. Önce küçük bir risk, sonra o riski düzeltmek/saklamak için ikinci karar, ardından başka bir açık oluşur.
-
-Mahir'in temel zaaflarından biri görünür: bir şeyi tek başına düzeltebileceğine gereğinden fazla inanması; yardım istemeyi geciktirmesi; “önce hallederim, sonra anlatırım” yaklaşımı.
-
-Para olay örgüsünün aracı olacak; asıl mesele gurur, kontrol, korku ve utançtır.
-
-Mahir Derya'dan küçük ama önemli bir şeyi saklar. Bu gelecekteki daha büyük davranışın ilk tohumu olur.
-
-Şehir içinde eski bir duvar/yarım sökülmüş yazı ilk kez görünür. Üzerinde durulmaz.
-
----
-
-## 4. Bölüm — Derya'nın Anahtarı
-**Hedef:** 25–30 A5 sayfa  
-**Dönem:** Karanlık 4/8
-
-Mahir–Derya kardeşliği derinleştirilir. Derya'nın Mahir'in evinin anahtarına neden sahip olduğu geçmişte yaşanmış bir olay üzerinden açılır; ancak bütün detaylar verilmez.
-
-Birlikte yemek, tartışma, şakalaşma, çocukluk anıları ve gündelik hayat sahneleri bulunur. Derya yalnız “Mahir'i kurtaran kardeş” değildir; kendi işi, sorumlulukları, çevresi ve Mahir yüzünden ertelenen/aksayan parçaları vardır.
-
-Anne ve aile hattı açılır. Anne kusursuz, yalnız nasihat veren bir karakter yapılmaz. Sevgi kadar yorgunluk ve kırgınlık da vardır.
-
-Mahir'in geçmişte dini alışkanlıkları olduğuna dair başka küçük izler görünür. Açıklanmaz.
-
-İlk bölümlerde görülen bazı sıradan ayrıntılar tekrar görünebilir; bağlantıları yine kurulmaz.
+- **Tek sayılı bölümler (1, 3, 5, 7, 9, 11, 13, 15, 17): HİKÂYE.** Olay örgüsü, karakter ilişkileri, iş/para meseleleri, aile, Derya, eski ortak ve Mahir'in somut seçimleri sahnelerle ilerler.
+- **Çift sayılı bölümler (2, 4, 6, 8, 10, 12, 14, 16, 18): ANLATI.** Önceki hikâye bölümünde yaşananların manevi, psikolojik ve ahlaki katmanı açılır. Uygun ayetler doğrulanarak kullanılır; Mahir'in yaptığı fakat henüz anlamadığı hatalar görünür hâle getirilir; gizli mesajların bazıları kontrollü biçimde biraz daha açılır.
+- Anlatı bölümleri ilmihal, vaaz, kişisel gelişim maddeleri veya akademik makale biçiminde olmayacaktır. Edebi, akıcı ve romanın sesine ait olacaktır.
+- Anlatı bölümleri yeni büyük olay örgüsü sahneleri başlatmayacaktır. Esas olay ilerlemesi sonraki hikâye bölümüne bırakılır.
+- Anlatı Mahir'i yalnız “örnek vaka” gibi kullanmayacak; onun yaşadıklarından insanın daha geniş hâllerine açılacaktır.
+- Okuyucuya sürekli doğrudan öğüt verilmez. Hakikat anlatılır; okur kendini metnin içinde bulur.
+- Her anlatı bölümünde ayet sayısı konuya göre sınırlı tutulacaktır. Ayet yığılması yapılmayacaktır.
+- Ayetlerin sure/ayet numarası, meal anlamı ve bağlamı kullanılmadan önce güvenilir kaynaktan doğrulanacaktır.
+- Bir ayet yalnız güzel göründüğü için kullanılmayacaktır; bölümün meselesini taşıması gerekir.
+- Gizli mesajlar anlatı bölümlerinde tamamen çözülmez. Bazılarının anlamı bir kat açılır, asıl karşılığı sonraki olaylarda görülür.
 
 ---
 
-## 5. Bölüm — Eksik Hatırlanan Geçmiş
-**Hedef:** 25–30 A5 sayfa  
-**Dönem:** Karanlık 5/8
+# 3. GİZLİ MESAJ / İŞARET KURALI
 
-Eski ortak ile Mahir ilk büyük yüzleşmelerinden birini yaşar. Sahne uzun ve diyalog ağırlıklı olabilir. İlk anda kontrollü, hatta eski dostluğun kalıntılarını taşıyan konuşma giderek sertleşir.
-
-Mahir yıllardır işin çöküşünü belirli bir şekilde hatırlamaktadır. Eski ortak bazı ayrıntıları farklı anlatır; elinde belge/yazışma gibi somut bir şey olabilir. Ancak o da masum değildir.
-
-Okuyucu Mahir'in kendi geçmişine dair anlatısının tam olmayabileceğini sezer. Mahir bilinçli biçimde yalan söylemiyor da olabilir; yıllarca kendisine anlattığı versiyona inanmış olabilir.
-
-Dönüş yolunda yağmur, sığındığı bir yer, duvar/açık kitap/uzaktan duyulan söz gibi bir ayrıntı içinde ileride ayet olduğu anlaşılabilecek birkaç kelime görülebilir. Ne Mahir ne anlatıcı bunun altını çizer.
-
----
-
-## 6. Bölüm — Sessiz Uyarılar
-**Hedef:** 25–30 A5 sayfa  
-**Dönem:** Karanlık 6/8
-
-Domino zinciri hızlanır. Geçmişteki bir yük bugünkü başka bir sorunu doğurur. Mahir Derya'dan yardım istemek yerine farklı bir çözüm dener. Bu çözüm yeni bir ilişkiyi veya güveni zedeler.
-
-Manevi uzaklık en güçlü biçimde hissedilir; fakat “Allah'tan uzaklaşmıştı” denmez. Mahir bir gece dua etmeye çalışabilir ve yalnızca “Allah'ım…” deyip devamını getiremeyebilir. Yıllar önce bildiği bir şeyi hatırlamakta zorlanması iç mesafeyi gösterir.
-
-Kedi tekrar görünebilir; bu kez başka bir kapının önünde. Rüzgâr, çocuk sesi, yarım bir cümle gibi ayrıntılar aralıklı biçimde yer alır. Hiçbiri yığılmaz.
+- İşaretler ilk bölümden itibaren vardır.
+- İlk karşılaşmada çoğu sıradan olay gibi görünür.
+- Her doğal olay işaret değildir.
+- İşaretlerin sayısı artırılarak değil, anlam katmanları derinleştirilerek ilerlenir.
+- İlk yarıda anlamlar kısmen gizlidir; anlatı bölümleri bazı bağlantıları görünür kılar ancak tamamını açıklamaz.
+- İkinci yarıda yeni semboller yağdırmak yerine daha önce görülen bazı ayrıntılar başka bağlamda geri döner.
+- Ayet, çocuk, perde, defter, ışık, kapı, ses, saat, yağmur vb. unsurlar “bakın bu sembol” denilerek açıklanmaz.
+- `GIZLI_MESAJ_HARITASI.md` süreklilik için kullanılmaya devam eder.
 
 ---
 
-## 7. Bölüm — Kardeşim
-**Hedef:** 25–30 A5 sayfa  
-**Dönem:** Karanlık 7/8
+# 4. 18 BÖLÜMLÜK V3 HARİTA
 
-Karanlığın içinde sıcak ve canlı bir kardeşlik bölümü. Derya ile Mahir'in neden birbirlerine bu kadar bağlı oldukları okuyucu tarafından gerçekten hissedilir.
+## 1. Bölüm — PERDELER KAPALI
+**Tür:** HİKÂYE  
+**Durum:** KANON / tamamlanan ilk ana bölüm  
+**Mevcut uzunluk:** yaklaşık 84 A5 sayfa
 
-Eski fotoğraflar, araba yolculuğu, çocukluk anıları, şakalaşma, yemek veya sıradan bir gecenin içinde güçlü diyaloglar kurulabilir.
+Mahir'in çocukluğu, Derya ile bağı, aile yapısı, dini geçmişi, ilk ciddi işi, sorun çözme yeteneği ve bu yeteneğin zamanla kontrol ihtiyacına dönüşmesi kurulur. Yıllar hızlandırılarak Mahir'in 33 yaşındaki daha izole hâline gelinir.
 
-Derya'nın bugün bildiği dini şeylerin bir kısmını Mahir'in öğrettiği daha açık biçimde ortaya çıkar. Derya örneğin “Bunu bana sen öğretmiştin.” diyebilir; Mahir'in cevabı veya sessizliği sahnenin ağırlığını taşır.
+İşlerin bozulduğu, Mahir'in bazı gerçekleri sakladığı, utancın ve “ben hallederim” refleksinin büyüdüğü görülür; fakat çöküşün somut ilk yanlış kararı henüz açıklanmaz.
 
-Aynı zamanda Derya'nın sabrı artık sınırına yaklaşmaktadır. Mahir bunu açık biçimde görmez. Okuyucu bazı belirtileri fark edebilir.
+Derya'nın açtığı perde, annesine dönen çocuk, İnşirah kırıntısı, eski defter ve “biliyorum ama yapamıyorum” hattı ileride geri dönecek tohumlardır.
 
-Derya önemli bir konuda Mahir'den açıkça gerçeği saklamamasını ister. Mahir söz verir.
-
----
-
-## 8. Bölüm — Son Damladan Önce
-**Hedef:** 25–30 A5 sayfa  
-**Dönem:** Karanlık 8/8
-
-İlk büyük karanlık perdenin zirvesi. Mahir 7. bölümde verdiği sözün sınandığı bir durumla karşılaşır.
-
-Sorunu Derya'ya söylerse güvenini kaybetmekten korkar; söylemezse kendi başına düzeltebileceğine inanır. Eski refleks geri gelir: “Önce halledeyim, sonra anlatırım.”
-
-Yaptığı şey yalnız maddi bir hata olmayacak. Derya'nın hayatına, işine, güvenine veya geleceğine doğrudan/dolaylı zarar verebilecek kadar ciddi olmalı. Böylece yaklaşan kopuş bir “tek tartışma” değil, yılların toplamı olur.
-
-İlk 7 bölümde görülen bazı ayrıntılar yeniden görünür; anlam hâlâ açıklanmaz.
-
-Son sayfalarda Derya gerçeğin bir kısmını öğrenir. Tepkisi büyük bağırış olmak zorunda değildir. Sakinlik daha ağır olabilir. Örneğin yalnızca “Yarın konuşacağız.” deyip gitmesi mümkün.
+Bölüm sonunda Mahir ailesiyle gerçek bir sıcak akşam geçirir; iyi olanın hâlâ var olduğu görülür. Ardından yeni bir iş/ödeme sorunu gelir. Karanlık tek renk değildir.
 
 ---
 
-## 9. Bölüm — Anahtar Masada
-**Hedef:** 30+ A5 sayfa  
-**Dönem:** Büyük orta kırılma
+## 2. Bölüm — BİR ZAMANLAR BİLDİKLERİ
+**Tür:** ANLATI  
+**Ana konu:** Tevekkül, bilgi ile yaşamak arasındaki fark, Mahir'in henüz göremediği hatalar
 
-Romanın merkezindeki büyük Mahir–Derya yüzleşmesi. Uzun, sinematik, karşılıklı ve katmanlı konuşmalar bulunur. Mahir kendini savunur, Derya geçmişteki olayları başka biçimde hatırlatır; bazen birbirlerinin sözünü keser, bazen uzun sessizlikler oluşur.
+Bu bölüm tamamen anlatı ağırlıklıdır. Mahir'in birinci bölümde yaptığı hatalar tek tek ahlaki hüküm cümleleriyle sayılmayacak; davranışlarının altında yatan kontrol, gurur, erteleme, korku ve nefsin mazeret üretmesi açılacaktır.
 
-Derya kusursuz değildir; öfkeyle haksız şeyler de söyleyebilir. Ancak temel gerçek değişmez: tek bir olay yüzünden gitmiyordur. Yıllardır taşıdığı şeylerin toplamı artık taşınamaz hâle gelmiştir.
+Temel ayrım: **Tedbir almak başka, sonucu sahiplenmek başkadır.** Tevekkül çabayı bırakmak değildir; çabayı yaptıktan sonra sonucu Allah'ın alanına bırakabilmektir.
 
-Mahir başlangıçta “bir hata yüzünden bırakılıyorum” gibi algılayabilir. Okuyucu bunun tek hata olmadığını bilir.
+Birinci bölümde Mahir'in “ben hallederim”, “sonra”, “işler düzelsin”, “biraz zaman” gibi cümlelerle kurduğu hayat yeniden okunur. Mahir Allah'ı inkâr etmemiştir; fakat Allah'ı hayatının merkezinden yavaşça “sonra”ya bırakmıştır.
 
-Derya anahtarı bırakır ve gider. Anahtar, 4. bölümde kurulan anlamın tersine dönüşür.
+Ayet omurgası için doğrulanmış ana adaylar:
+- **Âl-i İmrân 3:159:** istişare, karar/azim ve ardından Allah'a güvenme. Tevekkülün pasiflik olmadığını göstermek için.
+- **Talâk 65:2–3:** çıkış yolu, beklenmedik rızık ve “Kim Allah'a tevekkül ederse O kendisine yeter” çizgisi. Sonucu kontrol etme saplantısına karşı.
+- **Ra'd 13:11:** kişinin/toplumun kendi içindekini değiştirmeden değişimin beklenemeyeceği; tevekkülün sorumluluğu ortadan kaldırmadığını göstermek için.
+- **Haşr 59:19:** Allah'ı unutmanın insanın kendisine yabancılaşmasıyla ilişkisi. Mahir'in “kendim bıraktım” sandığı yolun ileride nefsinin yönetimine dönüşeceği hattın tohumu.
 
----
+İnşirah suresi bu bölümde tekrar edilmeyecektir; birinci bölümdeki kırıntı şimdilik bekleyecektir.
 
-## 10. Bölüm — Ses Kesildiğinde
-**Hedef:** 25–30 A5 sayfa  
-**Dönem:** Dipten ilk yönelişe geçiş
-
-Derya gerçekten yoktur. Mahir'in hayatındaki görünmez desteğin ne kadar büyük olduğu artık fiziksel biçimde hissedilir.
-
-İlk aşamada Mahir onu geri getirmeye çalışabilir; ardından öfke, mağduriyet ve daha derin bir çöküş gelir. Ancak bu, aynı döngünün tekrar tekrar anlatılması şeklinde yapılmaz. Her tepki yeni bir sonuç doğurur.
-
-Önceki bölümlerdeki bazı görüntüler yankılanır: kedi, kapı, yağmur, yarım ayet/söz. Hâlâ bütün bağlantılar çözülmez.
-
-Allah'a dönüş “artık değişeceğim” kararıyla başlamaz. Önce **özlem** gelir: eskiden içinde bulunan ama kaybolmuş bir şeyi özleme.
-
-Bir gece Mahir Allah'la gerçekten konuşmaya çalışır. Güzel, kusursuz cümleler gerekmez; öfke, kırgınlık, utanç ve dürüstlük bir arada olabilir.
+Bölüm sonunda okuyucu Mahir'in başına gelenlerin tümünü “ceza” diye okumaya yönlendirilmez. Mesele; insanın kendi seçimleri, dünyanın imtihan oluşu, başkalarının iradesi ve Allah'ın takdiri arasındaki sınırların karıştırılmamasıdır.
 
 ---
 
-## 11. Bölüm — Eve Giden Yol
-**Hedef:** 25–30 A5 sayfa  
-**Dönem:** İlk gerçek manevi dönüş
+## 3. Bölüm — İLK TAŞ
+**Tür:** HİKÂYE  
+**Ana konu:** Çöküşü başlatan ilk somut domino
 
-Mahir'in Allah'la bağı yeniden kurulmaya başlar. İlk namaz, uzun dua veya Kur'an'ı yeniden açma gibi sahneler olabilir; hiçbiri mucizevi biçimde hayatı düzeltmez.
+Mahir'in eski ortağı doğal biçimde ana hikâyeye girer. Ortak karakterin adı hikâye tonuna göre belirlenecek; **Cem kullanılmayacaktır.**
 
-Namaz bittiğinde borçlar, kırgınlıklar, Derya'nın yokluğu ve eski ortakla ilgili meseleler hâlâ vardır. Mahir'in farkı, ertesi gün yeniden dönmesidir.
+İlk gerçek yanlış karar açılır. Başlangıçtaki sorun tek başına yıkıcı değildir. Mahir sorunu zamanında paylaşmak, yardım istemek veya sınırı kabul etmek yerine kendi başına düzeltmeye karar verir. İkinci karar ilk açığı büyütür.
 
-Geçmişte kırıntı olarak duyduğu/gördüğü bir ayetin tamamıyla burada karşılaşması düşünülebilir. Rahmet ve ümit eksenli Zümer 39:53 adaylardan biridir; kesin kullanım öncesi bağlam ve meal doğrulanacak.
+Para araçtır; asıl mesele gurur, kontrol, korku, saklama ve “önce düzelteyim sonra söylerim” davranışıdır.
 
-Genç Mahir'in bildiği şeyler geri gelir; ancak artık yalnız “bilgi” değildir, yaşanmış acıyla farklı bir anlam kazanır.
-
----
-
-## 12. Bölüm — Hesap
-**Hedef:** 25–30 A5 sayfa
-
-Mahir geçmişte zarar verdiği insanlarla yüzleşmeye başlar: eski ortak, aile, başka kişiler ve kendisi.
-
-Her özür kabul edilmez. Bazı insanlar affedebilir ama Mahir'i hayatlarına geri almayabilir. Bu, dönüşümün “ödül” sistemi olmadığını gösterir.
-
-Eski ortağın da hataları daha açık ortaya çıkar. Mahir kendi sorumluluğunu kabul ederken başkasının suçunu üstlenmek zorunda olmadığını öğrenir.
-
-Temel ayrım: **Sorumluluk almak ≠ bütün suçu üstlenmek.**
-
-Manevi değişim davranışlara, hak gözetmeye, dürüstlüğe, borç/emanet meselesine ve sınır koymaya dönüşür.
+Aileyle mesafenin gerçek sebepleri burada somutlaşmaya başlar. Kimse Mahir'i dışlamaz; Mahir sorulara cevap vermemek için geri çekilir.
 
 ---
 
-## 13. Bölüm — Olmayan Şey
-**Hedef:** 25–30 A5 sayfa
+## 4. Bölüm — KONTROL ETTİĞİNİ SANDIĞIN ŞEY
+**Tür:** ANLATI  
+**Ana konu:** Kontrol, tedbir, istişare, kader ve insan sınırı
 
-Mahir gerçekten çok istediği bir şey için çabalar ve dua eder. Okuyucu da bunun olmasını ister.
+Üçüncü bölümdeki ilk domino çözümlemesi yapılır. “Her şeyi tek başına çözmek” ile sorumluluk sahibi olmak arasındaki fark açılır.
+
+İstişarenin zayıflık olmadığı; kararın insana, sonucun ise tamamen insanın kudretine ait olmadığı anlatılır. Mahir'in geçmişte başarı getiren özelliğinin neden aynı zamanda zaafa dönüştüğü gösterilir.
+
+---
+
+## 5. Bölüm — EKSİK HATIRLANAN GEÇMİŞ
+**Tür:** HİKÂYE  
+**Ana konu:** Eski ortakla yüzleşme ve Mahir'in kendi hikâyesindeki çatlaklar
+
+Eski ortakla güçlü yüzleşme yaşanır. Tarafların aynı geçmişi farklı hatırladığı ortaya çıkar. Belge/yazışma gibi somut ayrıntılar Mahir'in yıllardır kendine anlattığı versiyonu sarsar.
+
+Eski ortak masum değildir; fakat Mahir'in yalnız mağdur olduğu anlatı da kırılır.
+
+---
+
+## 6. Bölüm — NEFİS SESSİZ KONUŞUR
+**Tür:** ANLATI  
+**Ana konu:** Mazeret, kendini kandırma, gurur, ibadetin ertelenmesi ve iç mesafe
+
+Nefsin her zaman büyük günah çağrısıyla gelmediği; çoğu kez “şimdi değil”, “önce bunu hallet”, “sonra düzeltirsin” gibi makul görünen cümlelerle alan kazandığı anlatılır.
+
+Mahir'in namazı bir günde bırakmadığı, önce ertelediği, sonra aksattığı ve zamanla yokluğunu normalleştirdiği çizgi açılır. Kendisi başlangıçta bunu özgür iradesiyle “ben bıraktım” şeklinde okuyacaktır; ileride arzularının, gururunun ve alışkanlıklarının kendisini yönettiğini görecektir.
+
+---
+
+## 7. Bölüm — KARDEŞİM
+**Tür:** HİKÂYE  
+**Ana konu:** Derya ile bağın sıcaklığı ve yaklaşan sınır
+
+Karanlığın içinde sıcak, canlı bir kardeşlik bölümü. Mahir ile Derya'nın neden birbirlerine bu kadar bağlı olduğu güçlü biçimde yaşatılır.
+
+Aynı zamanda Derya'nın sabrı yorulmaktadır. Derya önemli bir konuda Mahir'den gerçeği saklamamasını ister. Mahir söz verir.
+
+---
+
+## 8. Bölüm — EMANET, HAK VE SESSİZLİK
+**Tür:** ANLATI  
+**Ana konu:** Sevgi adına saklamak, başkasının hakkını kendi kararıyla yönetmek, güven
+
+“Üzülmesin diye söylemedim” ile gerçeği saklayarak başkasının karar hakkını elinden almak arasındaki fark açılır.
+
+Derya'nın Mahir için yaptığı fedakârlıkların sınırsız bir borç olmadığı; sevginin sınır ve hak içerdiği anlatılır. Yaklaşan kırılmanın ahlaki zemini hazırlanır.
+
+---
+
+## 9. Bölüm — ANAHTAR MASADA
+**Tür:** HİKÂYE  
+**Ana konu:** Romanın merkez kırılması
+
+Mahir 7. bölümde verdiği sözü bozar veya gerçeğin kritik bir kısmını yine saklar. Bu kez sonuç Derya'nın hayatına/güvenine somut zarar verir.
+
+Uzun Mahir–Derya yüzleşmesi yaşanır. Derya tek olay yüzünden değil, yılların birikimi yüzünden uzaklaşır. Anahtarı bırakır.
+
+---
+
+## 10. Bölüm — SES KESİLDİĞİNDE
+**Tür:** ANLATI  
+**Ana konu:** Yalnızlık, kayıp, öfke, dua ve Allah'a karşı dürüstlük
+
+Bir insanın Allah'a yalnız güzel cümlelerle dönemeyeceği; kırgınlık, utanç, öfke ve çaresizliğin de dürüst duanın başlangıcı olabileceği anlatılır.
+
+Derya'nın yokluğu üzerinden insanın nimetleri çoğu zaman kaybedince fark etmesi işlenir. Ancak “her kayıp ilahi mesajdır” gibi basit bir denklem kurulmaz.
+
+---
+
+## 11. Bölüm — EVE GİDEN YOL
+**Tür:** HİKÂYE  
+**Ana konu:** İlk gerçek dönüş
+
+Mahir'in Allah'la bağı yeniden kurulmaya başlar. Namaza/durup dua etmeye/Kur'an'a dönme gibi sahneler olabilir; hayat mucizevi biçimde düzelmez.
+
+Mahir ertesi gün yeniden dönmeyi seçtiği için değişim başlar. **Zümer 39:53** rahmet ve ümit hattında bağlama göre kullanılabilir; nihai metin öncesinde tekrar doğrulanacaktır.
+
+---
+
+## 12. Bölüm — HESAP
+**Tür:** ANLATI  
+**Ana konu:** Tevbe, sorumluluk, kul hakkı, özür ve sonuç
+
+Tevbenin yalnız pişmanlık hissi olmadığı; mümkün olduğunca zararı telafi etme, hakkı teslim etme ve gerçeği kabul etme tarafı açılır.
+
+Affedilmenin talep edilebilir ama başkasından zorla alınamayacağı anlatılır. Mahir'in bütün suçu üstlenmesi de doğru değildir: sorumluluk almak ile kendini yok etmek ayrılır.
+
+---
+
+## 13. Bölüm — OLMAYAN ŞEY
+**Tür:** HİKÂYE  
+**Ana konu:** Çok istenen ve dua edilen sonucun gerçekleşmemesi
+
+Mahir ciddi biçimde çabalar ve dua eder. Okuyucu da istediği sonucun olmasını ister.
 
 Olmaz.
 
-Bu bölüm romanı “dua et, elde et” formülünden kesin biçimde ayırır. Mahir'in yeni kurduğu bağ ciddi biçimde sınanır. Eski hâline dönmenin eşiğine gelebilir; birkaç gün uzaklaşabilir; fakat bu kez tamamen kaybolmaz.
-
-Mahir Allah'a yakınlığın, istediği sonucun verilmesine bağlı olamayacağını yaşamaya başlar. “Tevekkül” kelimesini tekrar tekrar söylemeden tevekkülün en önemli tabakalarından biri burada oluşur.
+Mahir yeni kurduğu bağın sonuç garantisi olmadığını yaşayarak öğrenir. Eski hâline dönme tehlikesi doğar fakat bu kez tamamen kaybolmaz.
 
 ---
 
-## 14. Bölüm — Duvarın Arkası
-**Hedef:** 25–30 A5 sayfa
+## 14. Bölüm — DUVARIN ARKASI
+**Tür:** ANLATI  
+**Ana konu:** Kader, işaretler, dikkat ve anlam
 
-İlk bölümlerde gördüğümüz eski duvar gerçek bir nedenle yıkılmış/değişmiş olabilir. Arkasında Mahir'in daha önce görmediği bir alan ortaya çıkar. Bu yalnız sembolik bir olay değildir; şehir ve olay örgüsü içinde gerçek sebebi bulunur.
+Romanın ilk yarısındaki bazı gizli mesajların anlamları bir kat daha açılır. Her olayın “işaret” sayılmaması özellikle korunur.
 
-Önceki işaret/ayrıntıların bazıları okuyucunun zihninde ilk kez bağlanmaya başlar.
-
-Asıl değişim işaretlerin çoğalması değil, Mahir'in artık bakabilmesidir.
-
-Allah'a yakınlık ibadet sahnelerinin dışına taşar: sabır, hak, çalışma, merhamet, susma, sınır koyma, doğruyu kimse görmezken de yapma.
+Asıl değişimin dünyada daha çok işaret belirmesi değil, Mahir'in bakışının değişmesi olduğu anlatılır. Kader; sorumluluktan kaçma bahanesi yapılmaz, sonuçları geriye dönük olarak romantikleştirmek için de kullanılmaz.
 
 ---
 
-## 15. Bölüm — Derya'nın Duymadığı Şeyler
-**Hedef:** 25–30 A5 sayfa
+## 15. Bölüm — DERYA'NIN DUYMADIĞI ŞEYLER
+**Tür:** HİKÂYE  
+**Ana konu:** Sessiz değişim ve Derya'nın uzaktan tanıklığı
 
-Derya hikâyeye dolaylı biçimde yaklaşır. Mahir'in yaptığı bazı değişiklikleri Mahir'den değil, başka insanlardan öğrenir.
+Mahir bazı zararları sessizce düzeltir. Bunu Derya geri dönsün diye yapmaz.
 
-Mahir geçmişte Derya'ya verdiği bir zararı veya yükü sessizce düzeltmeye çalışmış olabilir. Bunu Derya geri dönsün diye yapmamıştır.
-
-Derya'nın kendi iç dünyası daha görünür hâle gelir. Mahir'i özlemek ile yeniden güvenmek arasındaki fark işlenir.
-
-Derya'nın geri dönmesi Mahir'e verilen ödül değil, Derya'nın kendi sınırları ve gözlemleri sonucunda verdiği bağımsız bir karar olacaktır.
+Derya Mahir'in bazı değişikliklerini başkalarından öğrenir. Özlemek ile güvenmek arasındaki fark görünür olur. Bölüm sonu Derya'nın Mahir'e yeniden yaklaşmasının gerçekçi kapısını açar.
 
 ---
 
-## 16. Bölüm — Dönüş
-**Hedef:** 25–30 A5 sayfa
+## 16. Bölüm — DÖNÜŞTEN ÖNCE
+**Tür:** ANLATI  
+**Ana konu:** Affetmek, güvenmek, sınırlar ve merhamet
 
-Derya geri gelir. Eski düzen geri gelmez.
+Affetmenin unutmak, eski düzeni geri getirmek veya aynı güveni hemen vermek olmadığı anlatılır.
 
-Diyaloglar güçlü, doğrudan ve gerektiğinde ağır olabilir. Derya korkularını açıkça söyler. Mahir “değiştim” diyerek kendini kanıtlamaya çalışmaz; güvenin zamanla kurulacağını kabul eder.
+Mahir'in değişiminin Derya'nın dönüşüne bağlı olmadığı; Derya'nın da Mahir'in iyileşmesinden sorumlu olmadığı netleşir.
 
-Çocukken Mahir'in Derya'ya öğrettiği bir dua/sure/ayet, yıllar sonra doğal biçimde Mahir'e Derya üzerinden geri dönebilir. Bu bir “ders verme” değil, kardeşlik dairesinin kapanmasıdır.
-
-İlişkileri eski hâlin tamiri değil, yeni bir ilişkinin başlangıcıdır.
-
----
-
-## 17. Bölüm — Sonuç Senin Değil
-**Hedef:** 25–30+ A5 sayfa  
-**Dönem:** Manevi zirve
-
-Mahir'in eski reflekslerini tetikleyecek ciddi yeni bir sınav gelir. Derya dönmüş, hayat biraz toparlanmışken tekrar sarsılma yaşanır.
-
-Mahir bu kez gerçekten çabalar: plan yapar, insanlarla konuşur, gerekli sorumluluğu üstlenir, dua eder. Fakat sonucu zorlamak için yalan, manipülasyon veya eski kaçış yollarına dönmez.
-
-Âl-i İmrân 3:159'un karar–azim–Allah'a dayanma çizgisi burada yüzlerce sayfalık yaşanmışlığın üzerine oturabilir. Ayet kesin metinle kullanılmadan önce bağlam ve meal doğrulanacak.
-
-Okuyucuya “tevekkül budur” denmez. Okuyucu bunu Mahir'in davranışından zaten anlamalıdır.
+Çocukken Mahir'in Derya'ya öğrettiği bazı şeylerin dairesi kapanmaya hazırlanır.
 
 ---
 
-## 18. Bölüm — Seher
-**Hedef:** 30+ A5 sayfa  
-**Dönem:** Aydınlık / final
+## 17. Bölüm — SONUÇ SENİN DEĞİL
+**Tür:** HİKÂYE  
+**Ana konu:** Manevi zirve ve son büyük sınav
 
-Final hızlı kapatılmaz. Mahir'in yeni hâli günlük hayat içinde biraz yaşatılır: Derya, aile, eski ortakla kalan mesafe, iş/para, ev, şehir ve günlük rutinler.
+Derya ile ilişki temkinli biçimde yeniden kurulmuşken Mahir'in eski reflekslerini tetikleyecek ciddi bir sınav gelir.
 
-Bütün sorunlar çözülmüş değildir. Bazı borçlar kalabilir; bazı insanlar geri gelmez; geçmiş silinmez; Derya ile güven bir anda eski hâline dönmez.
+Mahir bu kez gerçekten çabalar: araştırır, konuşur, istişare eder, plan yapar, gerekli sorumluluğu üstlenir ve dua eder. Fakat sonucu zorlamak için yalan, manipülasyon, saklama veya hak ihlaline dönmez.
 
-Mahir'in Allah'la bağı artık yalnız kriz anlarında açılan bir kapı değildir; yaşamının sessiz zemini hâline gelmiştir.
+**Âl-i İmrân 3:159** burada ilk bölümden beri yaşanan bütün çizginin davranış karşılığına dönüşür: istişare, karar, azim ve ardından Allah'a güven.
 
-İlk bölümde kapatılan perde/pencere, rüzgâr, kedi, yağmur veya başka önceki unsurlardan yalnızca bazıları finalde geri dönebilir. Bütün semboller tek tek “çözülmeyecek”; bazıları okurun zihninde açık bırakılacak.
-
-Final ayeti kullanılacaksa açıklama yapılmayacak. Romanın tamamı o ayetin anlamını taşıyacak kadar hazırlanmış olmalıdır.
+Sonuç Mahir'in istediği gibi olabilir veya olmayabilir; asıl zirve onun sonucu ele geçirmeye çalışmamasıdır.
 
 ---
 
-# Karakter omurgaları
+## 18. Bölüm — SEHER
+**Tür:** ANLATI / FİNAL  
+**Ana konu:** Tevekkülün artık kavram değil yaşam biçimi olması
 
-## Mahir
-- Ana karakter; soyadı kullanılmayacak.
-- Geçmişte dini bilgisi ve uygulaması daha güçlüydü.
-- Kız kardeşi Derya'ya bazı sureleri/duaları öğreten kişiydi.
-- İş/para tarafında geçmişte gerçek başarı görmüş olabilir.
-- Çöküşü tek olay değil; korku, gurur, kontrol, utanç, saklama ve yanlış kararların domino etkisidir.
-- Kötü biri olarak değil; iyi tarafları, ciddi kusurları, sevilebilir ve kızılabilir yönleri birlikte yazılacak.
-- Dönüşümü “ilk kez dini keşfetmek” değil, **bildiği ama kaybettiği bir yere daha olgun biçimde dönmek** olacaktır.
+Final bir vaaz veya özet olmayacaktır. Roman boyunca yaşanan kontrol, korku, nefis, dua, kayıp, sorumluluk, rahmet ve güven çizgileri sakin bir anlatıda birleşir.
 
-## Derya
-- Mahir'in kız kardeşi. Bu ilişki ilk bölümden net olacak.
-- Kendi işi, hayatı, sınırları ve sorunları vardır.
-- Çocukken bazı dini bilgileri Mahir'den öğrenmiştir.
-- Kitabın ilk yarısında Mahir'in yanında kalır.
-- Ayrılığı tek bir tartışmanın değil, uzun bir birikimin sonucudur.
-- Gidişi Mahir'i cezalandırmak için değil, kendi sınırını korumak için olur.
-- Sonlara doğru geri döner; dönüş eski düzenin devamı değildir.
+İlk bölümlerdeki bazı gizli ayrıntılar son kez hafifçe yankılanabilir; hepsinin anlamı açıklanmaz.
 
-## Eski ortak — adı henüz belirlenmedi
-- Mahir'in geçmiş iş/girişim hayatının ana figürlerinden biri.
-- Ne tamamen suçlu ne tamamen masum.
-- Mahir'in kendine anlattığı geçmiş hikâyesindeki çatlakları açar.
-- Mahir'in sorumluluk almayı öğrenmesinde önemli ayna görevi görür.
-- İsim, karakter hikâyeye doğal biçimde girdiğinde belirlenecek; **Cem kullanılmayacak.**
+Mahir'in hayatındaki bütün problemler çözülmüş değildir. Derya ile güven emek ister, bazı kayıplar kalır, bazı insanlar dönmez, para ve hayat kusursuz olmaz.
 
-## Anne / aile
-- Manevi dünyanın tek yönlü sözcüsü değildir.
-- Sevgi, yorgunluk, kızgınlık ve geçmiş birlikte bulunur.
-- Mahir'in dini geçmişine ve çocukluk hâline doğal kapılar açar.
+Fakat Allah artık Mahir'in yalnız kriz anında hatırladığı biri değildir. Mahir'in değişimi şartların kusursuzlaşmasından değil, çabayı yapıp sonucu sahiplenmemeyi öğrenmesinden gelir.
+
+Son anlatı aydınlık ama kolaycı olmayan bir tonda kapanır.
 
 ---
 
-# Manevi gelişim grafiği
+# 5. MANEVİ GELİŞİM GRAFİĞİ
 
-- **Bölüm 1–2:** Mahir'in kimliği, geçmiş manevi zemini ve ileride oluşacak mesafenin temeli
-- **Bölüm 3–4:** Kaçışların ve domino etkisinin büyümesi
-- **Bölüm 5–6:** Kendi hikâyesindeki çatlaklar / manevi boşluğun hissedilmesi
-- **Bölüm 7–8:** Derya bağı en güçlü hâli + karanlık dönemin zirvesi
-- **Bölüm 9:** Büyük kırılma
-- **Bölüm 10:** Sessizlik, özlem, ilk dürüst yöneliş
-- **Bölüm 11:** Bağın yeniden kurulması
-- **Bölüm 12:** İnancın davranış ve sorumluluğa dönüşmesi
-- **Bölüm 13:** Sonuçsuz dua ile sınanma
-- **Bölüm 14:** Görme/dikkat/derinleşme
-- **Bölüm 15–16:** Değişimin ilişkilerde sınanması, Derya'nın dönüşü
-- **Bölüm 17:** Çaba + sonucu bırakabilme; manevi zirve
-- **Bölüm 18:** Yakınlığın artık bir an değil yaşam biçimi olması
-
----
-
-# İşaret ve tekrar sistemi
-
-Bu bölüm yazım sırasında bölüm bölüm genişletilecektir. Şimdilik ana prensipler:
-
-1. İşaretler ilk bölümden itibaren vardır.
-2. İlk karşılaşmada anlamları açıklanmaz.
-3. Aynı unsur her dönüşünde aynı mesajı vermez; bağlamı gelişir.
-4. Bazı bağlantıları Mahir'den önce okuyucu fark edebilir.
-5. Bazı bağlantıları okuyucu bile ancak çok sonra veya ikinci okumada anlayabilir.
-6. İşaret sayısı ikinci yarıda zorunlu olarak artmaz; Mahir'in dikkat seviyesi değişir.
-7. Kedi, köpek, duvar, rüzgâr, yağmur, ses vb. unsurlar tek bir “semboller kataloğu”na dönüşmeyecek.
-8. İşaretler ana hikâyenin yerine geçmeyecek.
+- **1 Hikâye:** karakter ve çöküş zemini
+- **2 Anlatı:** tevekkülün gerçek anlamı; Mahir'in ilk hatalarının açılması
+- **3 Hikâye:** ilk somut domino
+- **4 Anlatı:** kontrol–tedbir–kader ayrımı
+- **5 Hikâye:** geçmişle yüzleşme
+- **6 Anlatı:** nefis, mazeret ve ibadetten uzaklaşma
+- **7 Hikâye:** kardeşlik ve verilen söz
+- **8 Anlatı:** emanet, hak ve güven
+- **9 Hikâye:** Derya'nın gidişi
+- **10 Anlatı:** kayıp ve dürüst dua
+- **11 Hikâye:** gerçek dönüşün başlaması
+- **12 Anlatı:** tevbe ve sorumluluk
+- **13 Hikâye:** gerçekleşmeyen dua/istenen sonuç
+- **14 Anlatı:** kader ve işaretlerin olgun yorumu
+- **15 Hikâye:** sessiz değişimin başkalarına ulaşması
+- **16 Anlatı:** affetme ve güvenin sınırları
+- **17 Hikâye:** çaba + istişare + sonucu bırakma
+- **18 Anlatı:** tevekkülün yaşam biçimine dönüşmesi
 
 ---
 
-# Yazım ve sürüm kuralı
+# 6. YAZIM / ONAY / PDF KURALI
 
-- Her bölüm yaklaşık 5 A5 sayfalık birbirine bağlı parçalar hâlinde yazılabilir; ancak parçalar ayrı hikâyeler gibi davranmayacak, kesintisiz aynı bölümün devamı olacaktır.
-- Her parça önce kullanıcıya gösterilir; yalnız onaylanan metin resmi kitap metnine ve ana PDF'e alınır.
-- Kullanıcı tarafından onaylanan bölüm/parça resmi kitap metnine alınır.
-- Olay örgüsünde yeni karar alındığında **önce bu harita güncellenir**, ardından ilgili bölüm metni ve gerekiyorsa bağlantılı sonraki bölümler revize edilir.
-- Geriye dönük değişikliklerde yalnız hedef bölüm değil, domino etkisi nedeniyle etkilenebilecek bütün sonraki bölümler kontrol edilir.
-- Ayetler nihai metne eklenmeden önce doğruluk ve bağlam kontrolünden geçer.
-- Nihai kitap tek ana kaynak üzerinden A5 PDF'e dönüştürülür; ayrı bölüm PDF'lerini sonradan birleştirme yöntemi kullanılmaz.
+- Her yeni bölümden önce bir önceki kanonik bölüm baştan veya gerekli kapsamda yeniden kontrol edilir; karakterlerin bulunduğu yer, zaman, ilişki durumu ve açık kalan ipler doğrulanır.
+- Bağlantısız sahne başlangıcı yapılmaz.
+- Her parça önce kullanıcıya gösterilir.
+- **Yalnız kullanıcı tarafından onaylanan metin** `KITAP_METNI.md` ve tek ana PDF'e alınır.
+- Taslak metinler PDF'e veya kanonik ana metne kaydedilmez.
+- Ayet içeren her anlatı parçasında sure/ayet, anlam ve bağlam doğrulanır.
+- Kullanıcının onayladığı anlatım ve yazım tercihleri korunur.
+- Nihai kitap tek ana A5 PDF olarak büyütülür.
 
 ---
 
-**V2 sonu.**
+**V3 sonu.**
